@@ -1,0 +1,35 @@
+h1  {
+	font-size: 24px;
+	line-height: 1.5;
+}
+
+/* div {
+	border: 1px solid black;
+} */
+
+.form-name {
+	font-size: 20px;
+ 
+}
+.form {
+	border: 5px solid #472cc3;
+	padding: 40px 20px;
+
+}
+.btn {
+	background-color: #472cc3;
+}
+
+h2 {
+	font-size: 24px;
+	margin-top: 50px;
+}
+
+.feature, .btn-get-instruction {
+	margin-top: 80px; 
+}
+
+.feature-box {
+	height: 120px;
+ }
+
