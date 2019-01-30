@@ -8,4 +8,4 @@
 
 [Урок 9](https://dreamkiper.github.io/dreamkiper.github.io/Lesson_9/ "Урок 9" )- Тема:Верстка при помощи Bootstrap
 
-[Урок 10](https://dreamkiper.github.io/dreamkiper.github.io/Lesson_10/ "Урок 10" )- Тема:Препроцессор LESS для CSS
+[Урок 10](https://github.com/dreamkiper/dreamkiper.github.io/blob/master/lesson_10/less/main.less "Урок 10" )- Тема:Препроцессор LESS для CSS
