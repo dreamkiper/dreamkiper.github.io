@@ -1,0 +1,89 @@
+
+p{
+	display: inline;
+ font-family: "Arial", Arial;
+ font-weight: 720;
+ 
+ 
+}
+body{
+	justify-content:     center;
+
+}
+form {
+	
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -162px;
+	margin-top: -137px;
+	/* border:1px solid red; */
+}
+fieldset{
+ 	
+ height: 350px;
+	width: 293px;
+ text-align: center;
+}
+legend {
+  font-family: "Arial", Arial;
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  text-transform: uppercase;
+  position: absolute;
+  top: -2px;
+  left: 33px;
+  background-color: #01b3b3;
+  padding-top:5px;
+  padding-bottom:4px;
+  padding-right: 8px;
+  padding-left: 9px;
+}
+input {
+  display:block;
+}
+
+.acc_form{
+	font-size: 12px;
+	position: absolute;
+	margin-top: 47px;
+	margin-left: 17px;
+	text-align: left;
+}
+.star,.star2,.star3{
+	color:#01b3b3;
+}
+.mail,.ch-pass,.conf-pass  {
+font-size: 12px;
+font-style: italic;
+height: 25px;
+width: 255px;
+margin-top: 10px;
+
+ }
+ .ch-pass-text,.star2,.conf-pass-text,.star3{
+ 	/* font-family:"Arial" */
+  /* Sfont-weight:700; */
+ 	font-size: 12px;
+ 	position: relative;
+ 	top: 17px;
+  }
+.ch-pass,.conf-pass {
+	margin-top: 30px;
+}
+button{
+ width: 260px;
+ height: 46px;
+	position:absolute;
+	left: 50%;
+	margin-left: -130px;
+	margin-top: 33px;
+ font-family: "Arial", Arial;
+ font-size: 16px;
+ color:white;
+ background-color:#01b3b3; 
+ text-transform:uppercase;
+ border-radius: 5px;
+
+}
