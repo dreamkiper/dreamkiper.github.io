@@ -1,0 +1,226 @@
+/* fonts */
+@font-face {
+  font-family: 'ProximaNova_Rg';
+  src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'), url('../fonts/ProximaNova-Regular.woff') format('woff'), url('../fonts/ProximaNova-Regular.ttf') format('truetype'), url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova_Bold';
+  src: url('../fonts/ProximaNova-Bold.woff2') format('woff2'), url('../fonts/ProximaNova-Bold.woff') format('woff'), url('../fonts/ProximaNova-Bold.ttf') format('truetype'), url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/* colors */
+/* basic settings */
+html {
+  font-size: 10px;
+}
+body {
+  font-family: ProximaNova_Rg, sans-serif;
+}
+a:hover {
+  text-decoration: none;
+}
+button:focus,
+input:focus,
+a:focus {
+  outline: none;
+}
+.buttn {
+  font-size: 1.2rem;
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  background-color: #ffb504;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  transition: all 0.2s;
+}
+.buttn:hover {
+  cursor: pointer;
+  background-color: #eaa500;
+}
+.btn-small-screen {
+  display: none;
+}
+/* typography */
+section {
+  padding: 10rem 0;
+}
+/* main */
+.main {
+  padding: 3rem 0.5rem;
+  background: #ffffff url(../img/background_main.jpg) center center no-repeat;
+  background-size: cover;
+}
+.main-content {
+  margin-top: 10rem;
+}
+.main-content h1 {
+  margin-top: 0;
+  font-family: 'ProximaNova_Bold', sans-serif;
+  text-transform: uppercase;
+  font-size: 4rem;
+  margin-bottom: 4rem;
+  line-height: 1.45;
+}
+.main-subtitle {
+  margin-bottom: 4rem;
+  font-family: ProximaNova_Rg, sans-serif;
+  font-size: 2.4rem;
+}
+.main-trigger {
+  display: block;
+  margin-top: 3rem;
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-size: 2.2rem;
+  text-transform: uppercase;
+}
+.main span {
+  display: inline-block;
+  padding: 3rem 5rem;
+  font-size: 1.8rem;
+  text-align: center;
+  color: white;
+  background-color: #49bf15;
+}
+.main span strong {
+  font-size: 3rem;
+  font-family: 'ProximaNova_Bold', sans-serif;
+}
+.main-form {
+  display: block;
+  padding: 4rem 5rem;
+  background-color: white;
+  text-align: center;
+}
+.main-form-header {
+  margin-bottom: 4rem;
+  font-family: ProximaNova_Rg, sans-serif;
+  font-size: 1.7rem;
+}
+.main-form-header strong {
+  font-size: 1.8rem;
+}
+.main-form-input {
+  display: block;
+  margin: 2rem 0;
+  width: 100%;
+  border: 1px solid #dddddd;
+  padding: 1.5rem;
+}
+.main-form-btn {
+  font-size: 1.6rem;
+}
+.main-form label {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  padding: 0.5rem;
+  font-size: 1.3rem;
+  background-color: white;
+}
+.main-form small {
+  display: block;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+}
+.main-comment {
+  font-family: ProximaNova_Rg, sans-serif;
+  font-size: 1.2rem;
+  text-align: left;
+}
+.header {
+  height: 7rem;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+}
+.phone {
+  text-align: right;
+}
+.phone-link {
+  display: inline-block;
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  height: 7rem;
+  line-height: 7rem;
+  color: #1a1820;
+}
+@media (max-width: 991px) {
+  .phone {
+    text-align: center;
+  }
+  .main {
+    background-position: top right;
+  }
+  .main-title {
+    text-align: center;
+    padding-bottom: 3rem;
+  }
+  .main-content {
+    margin-top: 3rem;
+  }
+  .main-comment {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .header {
+    height: auto;
+    text-align: center;
+  }
+  .wrap-block {
+    text-align: center;
+  }
+}
+@media (max-width: 575px) {
+  .phone {
+    order: 1;
+    text-align: left;
+  }
+  .phone-link {
+    font-size: 1.4rem;
+  }
+  .button-block {
+    order: 2;
+  }
+  .button-block .btn-big-screen {
+    display: none;
+  }
+  .button-block .btn-small-screen {
+    font-size: 1.2rem;
+    display: block;
+  }
+  .logo {
+    order: 3;
+    margin-top: 2rem;
+  }
+  .main {
+    background: #ffffff url(../img/main-bgk-small-scr.jpg) center center no-repeat;
+    background-size: cover;
+    background-position: top 7.5rem right 0;
+    padding: 0;
+  }
+  .main-title h1 {
+    font-size: 2.2rem;
+  }
+  .main-subtitle {
+    font-size: 1.8rem;
+  }
+  .main-trigger {
+    font-size: 1.9rem;
+  }
+  .main-comment {
+    text-align: center;
+  }
+}
