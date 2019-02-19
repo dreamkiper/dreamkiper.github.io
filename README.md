@@ -23,3 +23,4 @@
 
 [Урок 15.5](https://dreamkiper.github.io/Lesson_15.5/ "Урок 15.5")- Эффекты при наведении и адаптив первого экрана
 
+[Урок 16](https://dreamkiper.github.io/Lesson_16/ "Урок 16")- Слайдер на сайте.
