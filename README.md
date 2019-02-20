@@ -25,4 +25,4 @@
 
 [Урок 16](https://dreamkiper.github.io/Lesson_16/ "Урок 16")- Слайдер на сайте.
 
-[Урок 16](https://dreamkiper.github.io/Lesson_16.5/ "Урок 16.5")- Верстка блока с преимуществами. Слайдер.
+[Урок 16.5](https://dreamkiper.github.io/Lesson_16.5/ "Урок 16.5")- Верстка блока с преимуществами. Слайдер.
