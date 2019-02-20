@@ -1,0 +1,14 @@
+.butn-block {
+  padding-top: 50px;
+  text-align: center;
+}
+.butn-block .btn {
+  background-color: grey;
+  color: black;
+}
+.btn-yes {
+  background-color: red;
+}
+.btn-no {
+  background-color: green;
+}
