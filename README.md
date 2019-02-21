@@ -28,3 +28,5 @@
 [Урок 16.5](https://dreamkiper.github.io/Lesson_16.5/ "Урок 16.5")- Верстка блока с преимуществами. Слайдер.
 
 [Урок 17](https://dreamkiper.github.io/Lesson_17/ "Урок 17")- Всплывающие окна.
+
+[Урок 17.5](https://dreamkiper.github.io/Lesson_17.5/ "Урок 17.5")- Верстка всплывающих окон на сайте
