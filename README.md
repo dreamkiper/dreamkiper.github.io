@@ -30,3 +30,5 @@
 [Урок 17](https://dreamkiper.github.io/Lesson_17/ "Урок 17")- Всплывающие окна.
 
 [Урок 17.5](https://dreamkiper.github.io/Lesson_17.5/ "Урок 17.5")- Верстка всплывающих окон на сайте
+
+[Урок 18](https://dreamkiper.github.io/Lesson_18/  "Урок 18")- Табы и аккордеон на сайте.
