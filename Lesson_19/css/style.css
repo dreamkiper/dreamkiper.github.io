@@ -1,0 +1,123 @@
+@font-face {
+	font-family: 'Myriad Pro';
+	src: url('MyriadPro-Regular.eot');
+	src: local('Myriad Pro Regular'), local('MyriadPro-Regular'),
+		url('../Fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../Fonts/MyriadPro-Regular.woff') format('woff'),
+		url('../Fonts/MyriadPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+
+.container {
+	  	  
+	  	  text-align: center;
+ }
+.form-block{
+	  margin-top: 20px;
+	  display:inline-block;
+	  width: 800px;
+	  height: 500px;
+	  background: url('../img/background.png') center no-repeat;
+
+}
+.tabs-block{
+	 display: inline-block;
+	 width: 629px;
+	 height: 424px;
+	 margin-top: 40px;
+	 background: url('../img/Shape 3.png') center no-repeat;
+	 z-index: 9;
+	 padding: 0 25px;
+  background-color: black;
+}
+
+.nav-tabs{
+	display: block;
+	border: none;
+	
+}
+.nav-tabs>li>a{
+  padding: 0 20px;
+  margin: auto 0;
+ 	height: 28px;
+ 	top: -20px;
+  background-color: white;
+  border-color: white;
+  margin-right: 7px;
+  font-family: 'Myriad Pro' sans-serif;
+  font-size: 22px;
+  color: black;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover 
+{
+  padding: 0 20px;
+  margin: auto 0;
+ 	height: 30px;
+ 	top: -20px;
+  background-color: #009fd2;
+  border-color:  #009fd2;
+  margin-right: 7px;
+  font-family: 'Myriad Pro' sans-serif;
+  font-size: 22px;
+  color: white;
+}
+
+.tab-pane {
+	color: white;
+	text-align: center;
+}
+.form-input {
+display: block;
+margin: 0 auto;
+font-family: 'Myriad Pro' sans-serif;
+color: #ffffff;
+font-size: 24px;
+line-height: 22px;
+width: 482px;
+height: 61px;
+background-color: #1e1d1e;
+border-color:  #1e1d1e;
+padding-left: 24px;
+}
+
+.login{
+	margin-top: 69px;
+}
+.pwd{
+	margin-top: 29px;
+}
+.fogot-pwd{
+	display: block;
+	font-family: 'Myriad Pro' sans-serif;
+	text-align: left;
+	margin-top: 22px;
+	color: #c51f03;
+	padding-left: 66px;
+}
+.label{
+ font-family: 'Myriad Pro' sans-serif;
+ color:  #6f6d6d;
+ font-size: 15px;
+	position: relative;
+	display: inline-block; 
+ margin: 58px 0px 0px -190px;
+ 
+}
+.button-in{
+ position: relative;
+ left: 282px;
+ top: 0px;
+ font-family: 'Myriad Pro' sans-serif;
+ color:  #ffffff;
+ font-size: 24px;
+ width: 128px;
+ height: 41px;
+	background: url('../img/Button-enter.png') center no-repeat;
+ border: none;
+ padding-bottom: 5px;
+}
+
