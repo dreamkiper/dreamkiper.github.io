@@ -34,3 +34,6 @@
 [Урок 18](https://dreamkiper.github.io/Lesson_18/  "Урок 18")- Табы и аккордеон на сайте.
 
 [Урок 18.5](https://dreamkiper.github.io/Lesson_18.5/ "Урок 18.5")- Верстка блока с ценами
+
+[Урок 19](https://dreamkiper.github.io/Lesson_19/ "Урок 19")- Анимация на CSS3.
+
