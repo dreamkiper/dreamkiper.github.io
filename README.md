@@ -37,3 +37,6 @@
 
 [Урок 19](https://dreamkiper.github.io/Lesson_19/ "Урок 19")- Анимация на CSS3.
 
+[Урок 19.5](https://dreamkiper.github.io/Lesson_19.5/  "Урок 19")- Верстка блока с отзывами
+
+
