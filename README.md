@@ -41,3 +41,5 @@
 
 [Урок 20](https://dreamkiper.github.io/Lesson_20/  "Урок 20")- Видео-фон на сайте
 
+[Урок 20.5](https://dreamkiper.github.io/Lesson_20.5/ "Урок 20.5")- Доверстали блок с отзывами
+
