@@ -45,4 +45,6 @@
 
 [Урок 21](https://dreamkiper.github.io/Lesson_21/ "Урок 21")- Parallax эффект для сайта.
 
+[Урок 21](https://dreamkiper.github.io/Lesson_21.5 "Урок 21.5")- Верстаем схему работы и все включено
+
 
