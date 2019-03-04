@@ -43,3 +43,6 @@
 
 [Урок 20.5](https://dreamkiper.github.io/Lesson_20.5/ "Урок 20.5")- Доверстали блок с отзывами
 
+[Урок 21](https://dreamkiper.github.io/Lesson_21/ "Урок 21")- Parallax эффект для сайта.
+
+
