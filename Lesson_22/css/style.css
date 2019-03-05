@@ -1,0 +1,49 @@
+.map{
+	margin-top: 200px;
+}
+.footer{
+	display: flex;
+ justify-content: space-evenly;
+}
+
+.logo>img{
+  display: inline-block;
+}
+.logo>p{
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 13px;
+}
+.text{
+	margin-top: 13px;
+}
+.adress{
+	margin-top: 13px;
+}
+.adress>p{
+  margin-top: 0;
+}
+.red-box{
+	position: absolute;
+	width: 380px;
+	height: 430px;
+	background-color: #c60b0b;
+	top: 200px;
+	left: 15%;
+	text-align: center;
+ color: white;
+ padding: 0;
+}
+
+	.red-box>h2{
+		font-size: 30px;
+		margin-top: 60px
+	
+	}
+ .red-box>p{
+ 	font-size: 18px;
+ 	margin-top: 40px;
+ }
+ .red-box:hover{
+  background-color: transparent; 
+   }
