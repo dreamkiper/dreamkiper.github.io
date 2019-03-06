@@ -49,5 +49,7 @@
 
 [Урок 22](https://dreamkiper.github.io/Lesson_22 "Урок 22")- Гео-карты для сайта.
 
+[Урок 22.5](https://dreamkiper.github.io/Lesson_22.5/ "Урок 22.5")- Верстаем блок "Развеиваем сомнения".
+
 
 
